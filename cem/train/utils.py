@@ -3,7 +3,7 @@ import logging
 import multiprocessing
 import numpy as np
 import os
-import pytorch_lightning as pl
+import lightning as pl
 import sklearn.metrics
 import torch
 
