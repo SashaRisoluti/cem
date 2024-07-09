@@ -1,6 +1,6 @@
 import sklearn.metrics
 import torch
-import pytorch_lightning as pl
+import lightning as pl
 from torchvision.models import resnet50, densenet121
 import numpy as np
 
