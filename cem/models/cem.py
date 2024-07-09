@@ -1,5 +1,5 @@
 import numpy as np
-import pytorch_lightning as pl
+import lightning as pl
 import torch
 
 from torchvision.models import resnet50
